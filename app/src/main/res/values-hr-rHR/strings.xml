@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Shopify</string>
+
+    <string name="content_description">slika</string>
+    <string name="title_login">PRIJAVA</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Lozinka</string>
+    <string name="lbl_forgot_password">Zaboravljena lozinka?</string>
+    <string name="btn_lbl_login">Prijava</string>
+    <string name="don_t_have_an_account">Nemate korisnički račun?</string>
+    <string name="register"><u>Registracija</u></string>
+
+    <string name="create_an_account">KREIRAJTE RAČUN</string>
+
+    <string name="hint_last_name">Prezime</string>
+    <string name="hint_first_name">Ime</string>
+    <string name="et_hint_confirm_password">Potvrdi lozinku</string>
+
+    <string name="i_agree_to_the_terms_and_condition">Slažem se s <u> Uvjetima korištenja </u></string>
+    <string name="btn_lbl_register">Registracija</string>
+
+    <string name="already_have_an_account">Već imate korisnički račun?</string>
+    <string name="login"><u>Prijava</u></string>
+
+    <string name="err_msg_enter_first_name">Molimo vas unesite ime.</string>
+    <string name="err_msg_enter_last_name">Molimo vas unesite prezime.</string>
+    <string name="err_msg_enter_email">Molimo vas unesite email.</string>
+    <string name="err_msg_enter_password">Molimo vas unesite lozinku</string>
+    <string name="err_msg_enter_confirm_password">Molimo vas da potvrdite lozinku.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Lozinka i lozinka za potvrdu nisu iste.</string>
+    <string name="err_msg_agree_terms_and_condition">Molimo vas da potvrdite uvjete korištenja</string>
+    <string name="register_successful">Zahvaljujemo se na registraciji!</string>
+    <string name="registration_success">Registracija uspješna!</string>
+
+    <string name="please_wait">Pričekajte molim&#8230;</string>
+    <string name="details_valid">Vaši podaci su ispravni.</string>
+    <string name="logged_in_successfully">Uspješna ste se prijavili.</string>
+
+    <string name="title_forgot_password">ZABORAVLJENA LOZINKA</string>
+    <string name="forgot_password_title_description">Molimo vas da unesete svoj email kako bi vam mogli poslati email s instrukcijama za mijenjanje lozinke.</string>
+    <string name="btn_lbl_submit">Potvrdi</string>
+
+    <string name="email_sent_success">Email uspješno poslan s instrukcijama za mijenjanje lozinke.</string>
+
+    <string name="title_complete_profile">ZAVRŠI PROFIL</string>
+    <string name="title_edit_profile">UREDI PROFIL</string>
+    <string name="et_hint_mobile_number">Broj mobitela</string>
+    <string name="rb_lbl_male">MUŠKO</string>
+    <string name="rb_lbl_female">ŽENSKO</string>
+    <string name="btn_lbl_save">Spremi</string>
+    <string name="read_storage_permission_denied">Upravo ste zabranili pristup pohrani podataka. U postavkama možete dozvoliti pristup pohrani podataka.</string>
+    <string name="image_selection_failed">Pogreška prilikom učitavanja slike.</string>
+    <string name="err_msg_enter_phone_number">Molimo vas da unesete broj mobitela.</string>
+
+    <string name="msg_profile_update_success">Vaš račun je uspješno ažuriran.</string>
+
+    <!--<string name="title_activity_dashboard">MainActivity</string>-->
+    <string name="title_home">Početak</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Obavijesti</string>
+
+    <string name="please_click_back_again_to_exit">Kliknite ponovno za izlaz iz aplikacije.</string>
+    <string name="title_products">Proizvodi</string>
+    <string name="title_orders">Narudžbe</string>
+    <string name="action_settings">Postavke</string>
+
+    <string name="title_settings">Postavke</string>
+    <string name="lbl_edit">Uredi</string>
+    <string name="lbl_addresses">Adrese</string>
+    <string name="btn_lbl_logout">Odjavi se</string>
+    <string name="action_add_product">Dodaj proizvod</string>
+
+    <string name="title_add_product">DODAJ PROIZVOD</string>
+    <string name="et_hint_product_title">Naziv proizvoda</string>
+    <string name="et_hint_product_price">Cijena proizvoda ($)</string>
+    <string name="et_hint_product_description">Opis proizvoda</string>
+    <string name="et_hint_product_quantity">Količina proizvoda</string>
+
+    <string name="err_msg_select_product_image">Molimo vas odaberite sliku za proizvod.</string>
+    <string name="err_msg_enter_product_title">Molimo vas unesite naziv proizvoda.</string>
+    <string name="err_msg_enter_product_price">Molimo vas unesite cijenu proizvoda.</string>
+    <string name="err_msg_enter_product_description">Molimo vas unesite opis proizvoda.</string>
+    <string name="err_msg_enter_product_quantity">Molimo vas da unesete količinu proizvoda.</string>
+    <string name="product_uploaded_success_message">Vaš proizvod je uspješno objavljen.</string>
+    <string name="no_products_added_yet">Nema dodanih proizvoda.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_dashboard_item_found">Nema pronađenih stavki.</string>
+
+    <string name="product_delete_success_message">Vaš proizvod je uspješno izbrisan.</string>
+    <string name="delete_dialog_title">Obriši</string>
+    <string name="delete_dialog_message">Jeste li sigurni da želite izbrisati proizvod?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+
+    <string name="title_product_details">DETALJI PROIZVODA</string>
+    <string name="lbl_product_description">Opis proizvoda</string>
+    <string name="lbl_product_details_stock_quantity">Količina</string>
+
+    <string name="btn_lbl_add_to_cart">DODAJ U KOŠARICU</string>
+    <string name="success_message_item_added_to_cart">Proizvod je dodan u košaricu.</string>
+
+    <string name="btn_lbl_go_to_cart">IDI U KOŠARICU</string>
+
+    <string name="title_my_cart">MOJA KOŠARICA</string>
+    <string name="no_cart_item_found">Nema stavki u košarici!</string>
+    <string name="lbl_subtotal">Ukupno</string>
+    <string name="lbl_shipping_charge">Cijena dostave</string>
+    <string name="lbl_total_amount">Ukupno(i dostava)</string>
+    <string name="btn_lbl_checkout">Potvrdi kupovinu</string>
+    <string name="action_cart">Moja košarica</string>
+
+    <string name="lbl_out_of_stock">NEMA VIŠE PROIZVODA</string>
+    <string name="msg_item_removed_successfully">Stavka uspješno izbrisana.</string>
+    <string name="msg_for_available_stock">Dostupna količina %1$s!. Ne možete više dodavati proizvoda.</string>
+
+    <string name="title_address_list">LISTA ADRESA</string>
+    <string name="no_address_found">Nema pronađene adrese.</string>
+    <string name="lbL_add_address">Dodaj adresu</string>
+
+    <string name="title_add_address">DODAJ ADRESU</string>
+    <string name="hint_full_name">Ime i prezime</string>
+    <string name="hint_phone_number">Broj mobitela</string>
+    <string name="hint_address">Adresa</string>
+    <string name="hint_zip_code">Poštanski broj</string>
+    <string name="hint_additional_note">Dodatna poruka</string>
+    <string name="hint_other_details">Drugi detalji</string>
+    <string name="lbl_home">DOM</string>
+    <string name="lbl_office">URED</string>
+    <string name="lbl_other">OSTALO</string>
+
+    <string name="err_msg_please_enter_full_name">Molimo vas unesite puno ime.</string>
+    <string name="err_msg_please_enter_phone_number">Molimo vas unesite broj mobitela.</string>
+    <string name="err_msg_please_enter_address">Molimo vas unesite adresu.</string>
+    <string name="err_msg_please_enter_zip_code">Molimo vas unesite poštanski broj.</string>
+    <string name="err_msg_please_enter_other_details">Molimo vas unesite ostale detalje.</string>
+    <string name="err_your_address_added_successfully">Vaša adresa je uspješno dodana.</string>
+
+    <string name="title_edit_address">UREDI ADRESU</string>
+    <string name="btn_lbl_update">AŽURIRAJ</string>
+    <string name="msg_your_address_updated_successfully">Vaša adresa je uspješno ažurirana.</string>
+
+    <string name="err_your_address_deleted_successfully">Vaša adresa je uspješno izbrisana.</string>
+    <string name="title_select_address">ODABERI ADRESU</string>
+
+    <string name="title_checkout">POTVRDI KUPOVINU</string>
+    <string name="checkout_lbl_product_items">Stavke</string>
+    <string name="checkout_lbl_selected_address">Odabrana adresa</string>
+    <string name="checkout_lbl_items_receipt">Račun</string>
+    <string name="lbl_payment_mode">Način plaćanja</string>
+    <string name="lbl_cash_on_delivery">Prilikom preuzimanja</string>
+    <string name="btn_lbl_place_order">POSTAVI NARUDŽBU</string>
+    <string name="your_order_was_placed_successfully">Vaša narudžba je uspješno poslana.</string>
+
+    <string name="no_orders_placed_yet">Nema još unesenih narudžbi.</string>
+
+    <string name="title_my_order_details">DETALJI NARUDŽBE</string>
+    <string name="order_details_lbl">Detalji narudžbe</string>
+    <string name="order_details_lbl_order_id">ID narudžbe</string>
+    <string name="order_details_lbl_order_date">Datum narudžbe</string>
+    <string name="order_details_lbl_order_status">Status narudžbe</string>
+    <string name="order_status_pending">U tijeku</string>
+    <string name="order_details_lbl_shipping_address">Adresa dostave</string>
+
+    <string name="order_status_in_process">U procesu</string>
+    <string name="order_status_delivered">Dostavljeno</string>
+
+    <string name="title_sold_products">Prodani proizvodi</string>
+    <string name="no_products_sold_yet">Nema još prodanih proizvoda.</string>
+
+    <string name="title_sold_product_details">DETALJI PRODAJE</string>
+
+</resources>
